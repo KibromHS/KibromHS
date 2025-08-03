@@ -1,87 +1,80 @@
-# 👋 Hi there, I'm Kibrom Hailesilasse
+# Kibrom Hailesilasse | Software Engineer
 
-## 💼 Full-stack Software Developer
+Portfolio: http://kibrom.netlify.app
+Email: kibromhs81@gmail.com
+Location: Addis Ababa, Ethiopia
 
-I'm a passionate and results-driven software developer based in Addis Ababa, Ethiopia. With hands-on experience in mobile, web, and backend development, I aim to build scalable and impactful software solutions. I enjoy learning and applying modern technologies to solve real-world problems.
+## About Me
 
----
+Versatile Full-Stack Developer with expertise across mobile, web, and backend technologies. Focused on delivering scalable, high-quality solutions that solve real business challenges. Based in Addis Ababa with a passion for creating impactful software that enhances user experiences.
 
-## 🔧 Tech Stack
+## Technical Expertise
 
-**Languages:** JavaScript, TypeScript, Dart, Java, PHP  
-**Mobile:** Flutter  
-**Frontend:** React, Next.js, TailwindCSS, HTML, CSS, JavaScript  
-**Backend:** Node.js (Express), Laravel  
-**Database:** MongoDB, MySQL, PostgreSQL  
-**Dev Tools:** Git, GitHub, Docker, AWS, Firebase  
-**CMS:** WordPress, Sanity.io
+Languages       | TypeScript, JavaScript, Dart, PHP, Java
+Mobile          | Flutter
+Frontend        | React, Next.js, TailwindCSS, HTML/CSS
+Backend         | Node.js (Express), Laravel
+Databases       | MongoDB, PostgreSQL, MySQL
+Cloud & DevOps  | AWS, Firebase, Docker, Git
+CMS             | WordPress, Sanity.io
 
----
+## Professional Experience
 
-## 🧩 Experience
+### Full-Stack Developer | Cepheus Technologies
+February 2022 - Present
 
-**Full-stack Developer**  
-*Cepheus Technologies* — *Feb 2022 – Present*  
-• Built mobile apps with Flutter  
-• Developed scalable web apps with React  
-• Created backend systems using Node.js and Laravel  
-• Integrated Firebase services  
-• Built an eCommerce platform using React, Next.js, and TailwindCSS  
+Leading development across multiple platforms, creating seamless user experiences and robust backend systems:
+- Architected and developed cross-platform mobile applications using Flutter
+- Built responsive, performance-optimized web applications with React ecosystem
+- Implemented scalable backend solutions using Node.js and Laravel
+- Delivered a comprehensive eCommerce platform with Next.js and TailwindCSS
+- Integrated Firebase services for real-time functionality and authentication
 
-**Mobile App Developer (Flutter)**  
-*Ethio Delivery* — *Mar 2025 – Jun 2025*  
-• Developed and deployed two Flutter mobile apps for customers and drivers  
+### Mobile App Developer | Ethio Delivery
+March 2025 - June 2025
 
-**Full Stack Developer**  
-*Orbit Technology Solutions* — *Dec 2024 – Feb 2025*  
-• Built mobile apps with Flutter  
-• Developed Laravel backends and React frontends  
+- Designed and implemented dual Flutter applications for customer ordering and driver logistics
+- Streamlined delivery operations through intuitive mobile interfaces
 
-**Telegram Bot Developer**  
-*Addis Motor Taxi* — *Aug 2023 – Nov 2023*  
-• Built and deployed 5 Telegram bots using Node.js
+### Full-Stack Developer | Orbit Technology Solutions
+December 2024 - February 2025
 
----
+- Developed Flutter-based mobile solutions with Laravel backend systems
+- Created responsive front-end interfaces using React
 
-## 🚀 Projects
+### Telegram Bot Developer | Addis Motor Taxi
+August 2023 - November 2023
 
-**🔹 [Herbal App](#)**  
-• Flutter Android app for herbal users and traditional healers  
-• Admin web panel built with React
+- Engineered and deployed 5 Node.js-powered Telegram bots enhancing customer service automation
 
-**🔹 [Ecommerce Platform](#)**  
-• React + Node.js + MongoDB app for selling traditional clothing  
+## Featured Projects
 
-**🔹 [Portfolio Website](http://kibrom.netlify.app)**  
-• Built with React, SCSS, and Sanity.io  
-• Showcases my works and contact details
+### Herbal App
+Cross-platform application connecting traditional healers with users seeking herbal solutions:
+- Flutter-built mobile app with intuitive user flows
+- React-based admin dashboard for content management
 
-**🔹 Real Estate System**  
-• Built for Platinum Real Estate to manage listings and agents
+### eCommerce Platform
+End-to-end solution for traditional clothing retail:
+- MERN stack implementation (MongoDB, Express, React, Node.js)
+- Secure payment integration and inventory management
 
----
+### Portfolio Website (http://kibrom.netlify.app)
+Showcasing professional work and capabilities:
+- React frontend with SCSS for custom styling
+- Sanity.io CMS integration for content management
 
-## 📊 GitHub Stats
+### Real Estate Management System
+Comprehensive solution for Platinum Real Estate:
+- Property listing management and agent coordination
+- Client relationship tracking and analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KibromHS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KibromHS&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=KibromHS&theme=radical)
+## Let's Connect
 
----
+I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.
 
-## 📫 Get in Touch
+Portfolio: http://kibrom.netlify.app
+GitHub: https://github.com/KibromHS
+Email: kibromhs81@gmail.com
 
-- 📧 [kibromhs81@gmail.com](mailto:kibromhs81@gmail.com)
-- 🌐 [Portfolio Website](http://kibrom.netlify.app)
-- 💼 [GitHub Profile](https://github.com/KibromHS)
-- 🌍 Addis Ababa, Ethiopia
-
----
-
-## 🌱 Interests
-
-- Learning new software technologies  
-- Reading  
-- Sports  
-
-Let's build something great together 🚀
+"Building tomorrow's solutions with today's code."
