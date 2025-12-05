@@ -1,80 +1,26 @@
-# Kibrom Hailesilasse | Software Engineer
+<h1 align="center">Hi 👋, I'm Kibrom</h1>
+<h3 align="center">A full stack web and mobile apps developer</h3>
 
-Portfolio: http://kibrom.netlify.app
-Email: kibromhs81@gmail.com
-Location: Addis Ababa, Ethiopia
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kibromhs&label=Profile%20views&color=0e75b6&style=flat" alt="kibromhs" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kibromhs" alt="kibromhs" /></a> </p>
 
-Versatile Full-Stack Developer with expertise across mobile, web, and backend technologies. Focused on delivering scalable, high-quality solutions that solve real business challenges. Based in Addis Ababa with a passion for creating impactful software that enhances user experiences.
+- 🔭 I’m currently working on [AddisManzil Property Rentals](https://property-rental-swart.vercel.app/)
 
-## Technical Expertise
+- 🌱 I’m currently learning **Cloud & Devops, System Design & Scalability, AI/ML Integration**
 
-Languages       | TypeScript, JavaScript, Dart, PHP, Java
-Mobile          | Flutter
-Frontend        | React, Next.js, TailwindCSS, HTML/CSS
-Backend         | Node.js (Express), Laravel
-Databases       | MongoDB, PostgreSQL, MySQL
-Cloud & DevOps  | AWS, Firebase, Docker, Git
-CMS             | WordPress, Sanity.io
+- 👨‍💻 All of my projects are available at [https://kibrom.netlify.app](https://kibrom.netlify.app)
 
-## Professional Experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Full-Stack Developer | Cepheus Technologies
-February 2022 - Present
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-Leading development across multiple platforms, creating seamless user experiences and robust backend systems:
-- Architected and developed cross-platform mobile applications using Flutter
-- Built responsive, performance-optimized web applications with React ecosystem
-- Implemented scalable backend solutions using Node.js and Laravel
-- Delivered a comprehensive eCommerce platform with Next.js and TailwindCSS
-- Integrated Firebase services for real-time functionality and authentication
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kibromhs&show_icons=true&locale=en&layout=compact" alt="kibromhs" /></p>
 
-### Mobile App Developer | Ethio Delivery
-March 2025 - June 2025
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kibromhs&show_icons=true&locale=en" alt="kibromhs" /></p>
 
-- Designed and implemented dual Flutter applications for customer ordering and driver logistics
-- Streamlined delivery operations through intuitive mobile interfaces
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kibromhs&" alt="kibromhs" /></p>
 
-### Full-Stack Developer | Orbit Technology Solutions
-December 2024 - February 2025
-
-- Developed Flutter-based mobile solutions with Laravel backend systems
-- Created responsive front-end interfaces using React
-
-### Telegram Bot Developer | Addis Motor Taxi
-August 2023 - November 2023
-
-- Engineered and deployed 5 Node.js-powered Telegram bots enhancing customer service automation
-
-## Featured Projects
-
-### Herbal App
-Cross-platform application connecting traditional healers with users seeking herbal solutions:
-- Flutter-built mobile app with intuitive user flows
-- React-based admin dashboard for content management
-
-### eCommerce Platform
-End-to-end solution for traditional clothing retail:
-- MERN stack implementation (MongoDB, Express, React, Node.js)
-- Secure payment integration and inventory management
-
-### Portfolio Website (http://kibrom.netlify.app)
-Showcasing professional work and capabilities:
-- React frontend with SCSS for custom styling
-- Sanity.io CMS integration for content management
-
-### Real Estate Management System
-Comprehensive solution for Platinum Real Estate:
-- Property listing management and agent coordination
-- Client relationship tracking and analytics
-
-## Let's Connect
-
-I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.
-
-Portfolio: http://kibrom.netlify.app
-GitHub: https://github.com/KibromHS
-Email: kibromhs81@gmail.com
-
-"Building tomorrow's solutions with today's code."
